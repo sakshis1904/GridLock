@@ -1,11 +1,11 @@
-### 🎮 GridLock — Real-Time Connect-4 Game
+### GridLock — Real-Time Connect-4 Game
 
 GridLock is a real-time multiplayer Connect-4 (4 in a Row) game built using the MERN stack with WebSockets.
 Players can compete player vs player or player vs bot, with live updates, matchmaking, and a leaderboard.
 
 </br>
 
-### 🧠 Features
+### Features
 
 * Real-time gameplay using Socket.IO
 * Automatic matchmaking
@@ -16,7 +16,7 @@ Players can compete player vs player or player vs bot, with live updates, matchm
 
 </br>
 
-### 🛠 Tech Stack
+### Tech Stack
 ### Frontend
 
 * React
@@ -34,7 +34,7 @@ Players can compete player vs player or player vs bot, with live updates, matchm
 
 </br> 
 
-### 🎯 How the Game Works
+### How the Game Works
 
 1. User enters a username
 2. System waits for an opponent
@@ -45,7 +45,7 @@ Players can compete player vs player or player vs bot, with live updates, matchm
 
 </br> 
 
-### 🤖 Bot Strategy
+### Bot Strategy
 
 The bot is not random. It prioritizes:
 
@@ -55,7 +55,7 @@ The bot is not random. It prioritizes:
 
 </br> 
 
-### 🔌 Real-Time Communication
+### Real-Time Communication
 
 WebSockets are used for:
 
@@ -66,7 +66,7 @@ WebSockets are used for:
 
 </br> 
 
-### 🧪 Run Locally
+### Run Locally
 
 ### 1️. Clone Repository
 
@@ -94,14 +94,14 @@ MONGO_URI=your_mongodb_connection_string
 
 </br> 
 
-### 🏆 Leaderboard
+### Leaderboard
 
 * Tracks total wins per player
 * Sorted in descending order
 * Displayed on frontend
 
 
-### 👩‍💻 Author
+### Author
 
 Sakshi Shrivastava </br>
 Backend / Full-Stack Developer </br>
